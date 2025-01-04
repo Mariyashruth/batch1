@@ -1,0 +1,15 @@
+                                                                  TRAINING
+
+1.Create an account in GitHub.
+2.create an repo in the GitHub.
+3.open vs code and open terminal in the vs code.
+>>hhtps://github.com/Mariyashruth/batch1.git
+4.initialize git in a terminal git init.
+5.configure username and email to GitHub.
+* COMMAND: git config -- global user.name "Mariyashruth"
+  COMMAND: git config --global user.gmail "2211cs010224@mallareddyuniversity.ac.in"
+6.Add remote URL to local repo.
+* COMMAND : git remote add origin https://github.com/Mariyashruth/batch1.git
+7. Convert untracked files to the tracked files.
+* COMMAND: git add.
+          git commit -m "my new project".

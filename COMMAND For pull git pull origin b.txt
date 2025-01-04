@@ -1,0 +1,27 @@
+* COMMAND: For pull git pull origin branch name.
+
+* WHAT IS JAVASCRIPT:
+>It is a object based programming language used to convert static page into dynamic page.
+
+* DATATYPES:
+>It is a value used in a programming language:
+1.primitive datatypes- number, string, Boolean, undefined, null, big-int.
+2.non primitive datatypes- class, object, array, function, map, sets.
+
+* VARIABLES:
+>used to store data/values
+>dynamic in nature
+>EG: var a =10
+     var b = "hello".
+
+1.SCOPES:
+>global-scope 
+>local-scope/script-scope
+>block-scope {
+             }
+
+* THREE TYPES OF VARAIBLES:
+>var
+>let
+>const
+
